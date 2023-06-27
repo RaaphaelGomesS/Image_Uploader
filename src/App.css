@@ -1,10 +1,3 @@
-html {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
-}
-
 .app {
   background-color: #fafafb;
   display: flex;
@@ -14,7 +7,7 @@ html {
   height: 100vh;
 }
 
-Footer{
+Footer {
   position: absolute;
   bottom: 0;
 }
