@@ -1,0 +1,21 @@
+.input{
+    display: none;
+}
+
+.imgInput{
+    width: 450px;
+    height: 250px;
+    background-color: #F6F8FB;
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+    color: #BDBDBD;
+    font-weight: 500;
+    
+
+    border: 2px dashed #97BEF4;
+    border-collapse: collapse;
+    border-radius: 20px;
+}
